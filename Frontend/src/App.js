@@ -108,7 +108,7 @@ export default function App() {
           },
           download: false,
           pagination: true,
-          rowsPerPage: 5,
+          rowsPerPage: 10,
           usePaperPlaceholder: true,
           rowsPerPageOptions: [5, 10, 25],
           sortColumnDirection: "desc",
